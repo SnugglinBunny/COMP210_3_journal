@@ -10,4 +10,4 @@
 
 ## [(Re-)examination of multimodal augmented reality](https://www.frontiersin.org/articles/10.3389/frobt.2016.00003/full)
 
-## ()[]
+## (Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology)[http://journal.frontiersin.org/article/10.3389/frobt.2016.00003/full]

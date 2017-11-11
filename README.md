@@ -1,5 +1,4 @@
 # COMP210_3_journal
-Base Repo for COMP210_3
 
 ## [Hardware Interfaces for VR Applications: Evaluation on Prototypes](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/xpls/icp.jsp?arnumber=7363283)
 
